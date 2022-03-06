@@ -8,6 +8,7 @@ streamlit
 lightgbm
 catboost
 keras
+tensorflow
 pandas-profiling
 streamlit-pandas-profiling
 prince
