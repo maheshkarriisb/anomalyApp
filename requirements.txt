@@ -10,4 +10,4 @@ catboost
 keras
 pandas-profiling
 streamlit-pandas-profiling
-
+prince
