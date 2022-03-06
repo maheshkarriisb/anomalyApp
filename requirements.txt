@@ -8,3 +8,6 @@ streamlit
 lightgbm
 catboost
 keras
+pandas-profiling
+streamlit-pandas-profiling
+
