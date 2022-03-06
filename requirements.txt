@@ -1,0 +1,10 @@
+numpy
+pandas
+plotly
+sklearn
+Pillow
+scipy
+streamlit
+lightgbm
+catboost
+
