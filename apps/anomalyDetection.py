@@ -9,7 +9,7 @@ from collections import Counter
 from PIL import Image
 from prince import MCA
 from dataclasses import dataclass
-from models.AutoencoderV1 import Autoencoder
+from .models.AutoencoderV1 import Autoencoder
 from .global_config import *
 import os
 import scipy.stats as ss
